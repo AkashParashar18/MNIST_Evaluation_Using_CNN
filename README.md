@@ -1,1 +1,1 @@
-# MNIST_Evaluation_Using_CNN
+# Building a Basic CNN: The MNIST Dataset
